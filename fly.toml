@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for nodejs-argo-5fhfyw on 2025-10-29T05:12:42Z
+# fly.toml app configuration file generated for nodejs-argo-7pmksg on 2025-10-29T05:23:32Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'nodejs-argo-5fhfyw'
+app = 'nodejs-argo-7pmksg'
 primary_region = 'nrt'
 
 [build]
